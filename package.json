@@ -37,5 +37,8 @@
     "testPathIgnorePatterns": [
       "generators/"
     ]
+  },
+  "dependencies": {
+    "micromatch": "^4.0.8"
   }
 }
